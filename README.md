@@ -3,7 +3,7 @@ Dataset Link : https://www.kaggle.com/datasets/devarajv88/target-dataset?select=
 Project Overview:
 This project involves a comprehensive analysis of an ecommerce dataset to understand various business metrics and customer behaviors. The dataset was sourced from Kaggle and stored in an ecommerce database. The analysis was performed using Jupyter Notebook.
 
-Objectives
+Objectives:
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
 3. Find the total sales per category.
@@ -18,12 +18,12 @@ Objectives
 12. Calculate the cumulative sales per month for each year.
 13. Calculate the year-over-year growth rate of total sales.
 
-Methodology
+Methodology:
 Data Storage: The dataset was stored in an ecommerce database to facilitate efficient data retrieval and manipulation.
 Data Retrieval: Data was fetched from the database using SQL queries.
 Data Analysis: The analysis was conducted using Python in a Jupyter Notebook. Key Python libraries used include Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and SQLAlchemy for database interaction.
 
-Key Insights
+Key Insights:
 1. Year-on-Year Growth: The analysis revealed significant growth trends, identifying peak periods and potential areas for improvement.
 2. Customer Order Values: By calculating the moving average of order values, we identified loyal customers with consistent order patterns.
 3. Cumulative Sales: The cumulative sales analysis highlighted the most profitable months and seasons, aiding in inventory and marketing planning.
