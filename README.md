@@ -29,7 +29,7 @@ Key Insights:
 3. Cumulative Sales: The cumulative sales analysis highlighted the most profitable months and seasons, aiding in inventory and marketing planning.
 4. Average Order Products: Grouping by customer city and other factors, we uncovered variations in order sizes and preferences across different regions.
 
-Tools and Technologies
+Tools and Technologies:
 Database: SQL-based ecommerce database
 Programming Language: Python
 Libraries: Pandas, Matplotlib, Seaborn, mysql.connector
