@@ -1,4 +1,6 @@
-Project Overview
+Dataset Link : https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+
+Project Overview:
 This project involves a comprehensive analysis of an ecommerce dataset to understand various business metrics and customer behaviors. The dataset was sourced from Kaggle and stored in an ecommerce database. The analysis was performed using Jupyter Notebook.
 
 Objectives
